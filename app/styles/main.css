@@ -8,5 +8,11 @@ html, body {
   position: fixed;
   bottom: 20px;
   right: 20px;
+  font-size: 25px;
+  font-weight: bolder;
   font-family: 'Poiret One', cursive;
+}
+
+.footer i {
+  color: red;
 }
